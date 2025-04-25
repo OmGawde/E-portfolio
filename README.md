@@ -53,7 +53,7 @@
         </div>
         <div class="project">
             <h3> TCS ION PROFESSIONAL SKILLS </h3>
-            <img src="C:\Users\9c23o\OneDrive - Vidyalankar Institute of Technology\Desktop\E-Portfolio\E-Portfolio Properties 26_04_2025 12_10_35 AM.jpg" alt="My Photo"
+            <img src="E-Portfolio Properties 26_04_2025 12_10_35 AM.jpg" alt="My Photo"
             style="width: 500px; border-radius: 10px; margin-bottom: 15px;">
         </div>
         <div class="project">
