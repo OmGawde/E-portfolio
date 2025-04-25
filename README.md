@@ -13,7 +13,7 @@
     </header>
 <section id="about">
         <h2>About Me</h2>
-  <img src="E-Portfolio Properties 26_04_2025 12_10_35 AM.jpg" alt="My Photo"
+  <img src="WhatsApp Image 2025-04-23 at 14.40.48_44231c25.jpg" alt="My Photo"
             style="width: 500px; border-radius: 10px; margin-bottom: 15px;">
         <p>I am a passionate AI and Embedded Systems Developer specializing in computer vision, deep learning, and real-time edge AI solutions.<br>
             To bring this vision to life, I am working on deploying the system on an ESP32 microcontroller, integrating an AI Thinker camera and an SD card for real-time monitoring.<br> 
